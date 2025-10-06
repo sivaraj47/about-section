@@ -51,4 +51,26 @@ img{
   width:100%;
   height:auto;    
 }
+  .secimg {
+    position: absolute;
+    top: 130px;
+    left: 10px;
+    z-index: 2;
+    width: 40%;
+    height: 30%;
+    border: 1px solid #ffff;
+}
+  .thrdimg {
+    position: absolute;
+    top: 65px;
+    right: 10px;
+    width: 45%;
+    height: 45%;
+    z-index: 1;
+    border: 1px solid #ffff;
+}
+  .article {
+    padding: 0px 0px;
+    width:100%;
+  }
 }
