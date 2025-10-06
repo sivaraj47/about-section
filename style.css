@@ -51,6 +51,9 @@ img{
   width:100%;
   height:auto;    
 }
+  .about {   
+    flex-direction: column;
+}
   .secimg {
     position: absolute;
     top: 130px;
